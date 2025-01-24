@@ -18,7 +18,7 @@ export class TabControl extends Component {
         this.onClickCallback = onClick
 
         this.tabList = [
-            {tab: this.task, value: TabValue.task},
+            {tab: this.task, value: TabValue.socials},
             {tab: this.ranking, value: TabValue.ranking},
             {tab: this.token, value: TabValue.token},
             {tab: this.invite, value: TabValue.invite},
