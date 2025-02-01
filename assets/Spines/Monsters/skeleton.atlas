@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 966,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/Body
+  rotate: false
+  xy: 114, 23
+  size: 110, 118
+  orig: 125, 134
+  offset: 5, 8
+  index: -1
+1/Mouth
+  rotate: false
+  xy: 312, 10
+  size: 69, 23
+  orig: 95, 49
+  offset: 13, 12
+  index: -1
+1/Shade
+  rotate: true
+  xy: 452, 44
+  size: 110, 77
+  orig: 127, 93
+  offset: 10, 7
+  index: -1
+10/Body
+  rotate: false
+  xy: 2, 15
+  size: 110, 126
+  orig: 123, 141
+  offset: 6, 7
+  index: -1
+10/Mouth
+  rotate: false
+  xy: 696, 9
+  size: 69, 42
+  orig: 83, 59
+  offset: 9, 8
+  index: -1
+10/Shade
+  rotate: true
+  xy: 541, 163
+  size: 110, 77
+  orig: 129, 87
+  offset: 10, 5
+  index: -1
+2/Body
+  rotate: false
+  xy: 2, 143
+  size: 124, 130
+  orig: 125, 138
+  offset: 0, 2
+  index: -1
+2/Hand01
+  rotate: false
+  xy: 383, 2
+  size: 42, 32
+  orig: 58, 61
+  offset: 8, 13
+  index: -1
+2/Hand02
+  rotate: false
+  xy: 427, 2
+  size: 42, 32
+  orig: 61, 54
+  offset: 11, 11
+  index: -1
+2/Mouth
+  rotate: false
+  xy: 889, 112
+  size: 69, 41
+  orig: 89, 57
+  offset: 10, 8
+  index: -1
+2/Shade
+  rotate: true
+  xy: 462, 163
+  size: 110, 77
+  orig: 127, 93
+  offset: 10, 7
+  index: -1
+3/Body
+  rotate: false
+  xy: 128, 155
+  size: 110, 118
+  orig: 126, 134
+  offset: 6, 8
+  index: -1
+3/Mouth
+  rotate: false
+  xy: 767, 9
+  size: 68, 42
+  orig: 82, 56
+  offset: 7, 7
+  index: -1
+3/Shade
+  rotate: true
+  xy: 531, 51
+  size: 110, 77
+  orig: 127, 93
+  offset: 10, 7
+  index: -1
+4/Body
+  rotate: false
+  xy: 240, 155
+  size: 109, 118
+  orig: 125, 133
+  offset: 6, 8
+  index: -1
+4/Eye
+  rotate: false
+  xy: 531, 3
+  size: 52, 46
+  orig: 63, 58
+  offset: 6, 6
+  index: -1
+4/Mouth
+  rotate: false
+  xy: 889, 76
+  size: 69, 34
+  orig: 81, 50
+  offset: 6, 8
+  index: -1
+4/Shade
+  rotate: true
+  xy: 688, 53
+  size: 109, 77
+  orig: 127, 93
+  offset: 10, 7
+  index: -1
+5/Body
+  rotate: false
+  xy: 338, 36
+  size: 112, 117
+  orig: 126, 133
+  offset: 7, 8
+  index: -1
+5/Eye1
+  rotate: false
+  xy: 226, 7
+  size: 84, 26
+  orig: 100, 36
+  offset: 9, 6
+  index: -1
+5/Mouth
+  rotate: false
+  xy: 837, 9
+  size: 68, 42
+  orig: 90, 59
+  offset: 11, 7
+  index: -1
+5/Shade
+  rotate: true
+  xy: 718, 164
+  size: 109, 77
+  orig: 127, 93
+  offset: 11, 7
+  index: -1
+6/Body
+  rotate: false
+  xy: 226, 35
+  size: 110, 118
+  orig: 138, 137
+  offset: 14, 10
+  index: -1
+6/Hand01
+  rotate: false
+  xy: 907, 235
+  size: 57, 38
+  orig: 70, 49
+  offset: 7, 6
+  index: -1
+6/Hand02
+  rotate: false
+  xy: 471, 4
+  size: 58, 38
+  orig: 72, 56
+  offset: 7, 9
+  index: -1
+6/Mouth
+  rotate: false
+  xy: 625, 7
+  size: 69, 42
+  orig: 95, 61
+  offset: 13, 6
+  index: -1
+6/Shade
+  rotate: true
+  xy: 767, 53
+  size: 109, 76
+  orig: 129, 87
+  offset: 10, 6
+  index: -1
+7/Body
+  rotate: false
+  xy: 351, 156
+  size: 109, 117
+  orig: 129, 129
+  offset: 10, 6
+  index: -1
+7/Hand01
+  rotate: false
+  xy: 907, 195
+  size: 57, 38
+  orig: 73, 52
+  offset: 10, 8
+  index: -1
+7/Hand02
+  rotate: false
+  xy: 907, 155
+  size: 57, 38
+  orig: 77, 52
+  offset: 11, 8
+  index: -1
+7/Mouth
+  rotate: true
+  xy: 845, 94
+  size: 68, 42
+  orig: 88, 56
+  offset: 10, 5
+  index: -1
+7/Shade
+  rotate: true
+  xy: 610, 51
+  size: 110, 76
+  orig: 130, 87
+  offset: 10, 6
+  index: -1
+8/Body
+  rotate: true
+  xy: 620, 164
+  size: 109, 96
+  orig: 126, 111
+  offset: 9, 7
+  index: -1
+8/Eye1
+  rotate: true
+  xy: 585, 6
+  size: 43, 38
+  orig: 53, 50
+  offset: 5, 6
+  index: -1
+8/Eye2
+  rotate: false
+  xy: 845, 54
+  size: 42, 38
+  orig: 54, 50
+  offset: 6, 6
+  index: -1
+8/Mouth
+  rotate: true
+  xy: 907, 6
+  size: 68, 42
+  orig: 80, 52
+  offset: 6, 5
+  index: -1
+8/Neck1
+  rotate: false
+  xy: 875, 240
+  size: 21, 33
+  orig: 32, 43
+  offset: 5, 4
+  index: -1
+8/Neck2
+  rotate: false
+  xy: 875, 205
+  size: 21, 33
+  orig: 33, 44
+  offset: 6, 6
+  index: -1
+8/Shade
+  rotate: true
+  xy: 797, 164
+  size: 109, 76
+  orig: 129, 88
+  offset: 10, 6
+  index: -1

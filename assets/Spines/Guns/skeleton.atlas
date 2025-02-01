@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 1361,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun1/body
+  rotate: true
+  xy: 1126, 51
+  size: 104, 100
+  orig: 120, 112
+  offset: 8, 6
+  index: -1
+Gun1/gun
+  rotate: false
+  xy: 1315, 93
+  size: 44, 80
+  orig: 53, 89
+  offset: 5, 5
+  index: -1
+Gun1/shade
+  rotate: true
+  xy: 2, 2
+  size: 120, 135
+  orig: 130, 147
+  offset: 4, 6
+  index: -1
+Gun10/body
+  rotate: true
+  xy: 317, 125
+  size: 136, 103
+  orig: 156, 130
+  offset: 10, 14
+  index: -1
+Gun10/gun
+  rotate: false
+  xy: 1274, 58
+  size: 39, 100
+  orig: 56, 112
+  offset: 9, 6
+  index: -1
+Gun10/shade
+  rotate: true
+  xy: 550, 4
+  size: 120, 135
+  orig: 131, 146
+  offset: 5, 5
+  index: -1
+Gun2/body
+  rotate: true
+  xy: 1164, 157
+  size: 104, 100
+  orig: 113, 110
+  offset: 4, 5
+  index: -1
+Gun2/gun
+  rotate: false
+  xy: 1228, 54
+  size: 44, 101
+  orig: 57, 112
+  offset: 6, 5
+  index: -1
+Gun2/shade
+  rotate: true
+  xy: 139, 2
+  size: 120, 135
+  orig: 131, 147
+  offset: 5, 6
+  index: -1
+Gun3/body
+  rotate: true
+  xy: 1021, 40
+  size: 104, 103
+  orig: 114, 114
+  offset: 5, 6
+  index: -1
+Gun3/gun
+  rotate: true
+  xy: 1126, 4
+  size: 45, 101
+  orig: 55, 107
+  offset: 5, 4
+  index: -1
+Gun3/shade
+  rotate: true
+  xy: 276, 3
+  size: 120, 135
+  orig: 131, 146
+  offset: 5, 5
+  index: -1
+Gun4/body
+  rotate: true
+  xy: 1059, 157
+  size: 104, 103
+  orig: 112, 112
+  offset: 4, 3
+  index: -1
+Gun4/gun
+  rotate: false
+  xy: 1266, 160
+  size: 44, 101
+  orig: 64, 115
+  offset: 11, 7
+  index: -1
+Gun4/shade
+  rotate: false
+  xy: 666, 126
+  size: 119, 135
+  orig: 130, 147
+  offset: 5, 6
+  index: -1
+Gun5/body
+  rotate: true
+  xy: 908, 135
+  size: 126, 103
+  orig: 131, 121
+  offset: 2, 9
+  index: -1
+Gun5/gun
+  rotate: true
+  xy: 1229, 8
+  size: 44, 101
+  orig: 63, 111
+  offset: 11, 4
+  index: -1
+Gun5/shade
+  rotate: true
+  xy: 413, 3
+  size: 120, 135
+  orig: 131, 147
+  offset: 5, 6
+  index: -1
+Gun6/body
+  rotate: true
+  xy: 916, 7
+  size: 126, 103
+  orig: 135, 125
+  offset: 4, 11
+  index: -1
+Gun6/gun
+  rotate: false
+  xy: 824, 9
+  size: 44, 115
+  orig: 61, 125
+  offset: 7, 6
+  index: -1
+Gun6/shade
+  rotate: false
+  xy: 422, 126
+  size: 120, 135
+  orig: 131, 146
+  offset: 5, 5
+  index: -1
+Gun7/body
+  rotate: true
+  xy: 2, 124
+  size: 137, 103
+  orig: 148, 127
+  offset: 5, 12
+  index: -1
+Gun7/gun
+  rotate: false
+  xy: 870, 9
+  size: 44, 115
+  orig: 63, 127
+  offset: 9, 6
+  index: -1
+Gun7/shade
+  rotate: true
+  xy: 687, 5
+  size: 119, 135
+  orig: 130, 147
+  offset: 5, 6
+  index: -1
+Gun8/body
+  rotate: true
+  xy: 212, 125
+  size: 136, 103
+  orig: 150, 123
+  offset: 7, 10
+  index: -1
+Gun8/gun
+  rotate: false
+  xy: 1013, 146
+  size: 44, 115
+  orig: 63, 123
+  offset: 9, 2
+  index: -1
+Gun8/shade
+  rotate: false
+  xy: 787, 126
+  size: 119, 135
+  orig: 130, 146
+  offset: 5, 5
+  index: -1
+Gun9/body
+  rotate: true
+  xy: 107, 124
+  size: 137, 103
+  orig: 153, 127
+  offset: 8, 12
+  index: -1
+Gun9/gun
+  rotate: false
+  xy: 1312, 175
+  size: 38, 86
+  orig: 55, 97
+  offset: 9, 5
+  index: -1
+Gun9/shade
+  rotate: false
+  xy: 544, 126
+  size: 120, 135
+  orig: 130, 146
+  offset: 4, 5
+  index: -1
