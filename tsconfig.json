@@ -4,6 +4,18 @@
 
   /* Add your custom configuration here. */
   "compilerOptions": {
-    "strict": false
-  }
+    "lib": [
+      "es2015",
+      "es2017",
+      "dom",
+      "webworker",
+      "es2018.promise",
+      "ESNext.BigInt"
+    ],
+    "target": "es5",
+    "skipLibCheck": true,
+    "strict": false,
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true, // needs to be turned on
+  },
 }

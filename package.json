@@ -1,7 +1,15 @@
 {
   "name": "game-tank-mons",
   "uuid": "6fcc3ef7-cbbe-439f-b9ff-c24996a7bb37",
+  "scripts": {
+    "docker:build": "docker build  -f Dockerfile -t tankmons .",
+    "deploy-stg": "node deploy.cjs --mode staging"
+  },
   "creator": {
-    "version": "3.8.4"
+    "version": "3.8.4",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {}
   }
 }
